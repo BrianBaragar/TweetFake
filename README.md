@@ -4,7 +4,10 @@ Permite crear tuits, subir video, foto, muestra en mapa donde se genero el tuit.
 Patron 🔗
 MVC
 Frameworks 🧩
-Alamofire 
 Firebase 
 Firestone
 Mapkit 
+KeychainSwift
+Simple Networking
+SVProgressHUD
+KingFisher
